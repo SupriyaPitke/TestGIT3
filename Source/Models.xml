@@ -11,17 +11,11 @@
 
   <ModelsRepository>
     <Models>
-      <Object Public="Test1" id="20971521" name="test1">
+      <Object Public="Test1" id="20971521" name="test11">
         <PropertyList model="FIELD">
           <Model attr_obj="FIELD_ALPHA" id="1"/>
           <Size id="174"/>
           <_Flip id="194"/>
-        </PropertyList>
-      </Object>
-      <Object id="20971522" name="form">
-        <PropertyList model="FORM_GUI0">
-          <_Comment id="218"/>
-          <FormName id="311"/>
         </PropertyList>
       </Object>
       <Object Public="Test2" id="20971523" name="Test2">
@@ -129,6 +123,12 @@
           <Model attr_obj="FIELD_ALPHA" id="1"/>
           <Size id="174"/>
           <_Flip id="194"/>
+        </PropertyList>
+      </Object>
+      <Object id="20971522" name="form">
+        <PropertyList model="FORM_GUI0">
+          <_Comment id="218"/>
+          <FormName id="311"/>
         </PropertyList>
       </Object>
     </Models>
