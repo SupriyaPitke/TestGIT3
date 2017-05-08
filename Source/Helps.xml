@@ -4,9 +4,38 @@
   <Header>
     <Version val="13021"/>
     <WithIsn val="Y"/>
-    <LastIsn val="0"/>
+    <LastIsn val="8"/>
     <LastIsnFolder val="0"/>
     <Folders/>
   </Header>
+
+  <HelpRepository>
+    <HelpScreens>
+      <Help Type="I" id="20971521" name="test1">
+        <PropertyList model="HELP_INTERNAL"/>
+      </Help>
+      <Help Type="I" id="20971522" name="test2">
+        <PropertyList model="HELP_INTERNAL"/>
+      </Help>
+      <Help Type="I" id="20971523" name="test3">
+        <PropertyList model="HELP_INTERNAL"/>
+      </Help>
+      <Help Type="I" id="20971524" name="test4">
+        <PropertyList model="HELP_INTERNAL"/>
+      </Help>
+      <Help Type="I" id="20971525" name="test1">
+        <PropertyList model="HELP_INTERNAL"/>
+      </Help>
+      <Help Type="I" id="20971526" name="test1">
+        <PropertyList model="HELP_INTERNAL"/>
+      </Help>
+      <Help Type="I" id="20971527" name="test1">
+        <PropertyList model="HELP_INTERNAL"/>
+      </Help>
+      <Help Type="I" id="20971528" name="test5">
+        <PropertyList model="HELP_INTERNAL"/>
+      </Help>
+    </HelpScreens>
+  </HelpRepository>
 
 </Application>
