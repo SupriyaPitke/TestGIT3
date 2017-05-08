@@ -4,7 +4,7 @@
   <Header>
     <Version val="13021"/>
     <WithIsn val="Y"/>
-    <LastIsn val="8"/>
+    <LastIsn val="24"/>
     <LastIsnFolder val="0"/>
     <Folders/>
   </Header>
@@ -33,6 +33,30 @@
         <PropertyList model="HELP_INTERNAL"/>
       </Help>
       <Help Type="I" id="20971528" name="test5">
+        <PropertyList model="HELP_INTERNAL"/>
+      </Help>
+      <Help Type="I" id="20971537" name="test1">
+        <PropertyList model="HELP_INTERNAL"/>
+      </Help>
+      <Help Type="I" id="20971538" name="test2">
+        <PropertyList model="HELP_INTERNAL"/>
+      </Help>
+      <Help Type="I" id="20971539" name="test3">
+        <PropertyList model="HELP_INTERNAL"/>
+      </Help>
+      <Help Type="I" id="20971540" name="test4">
+        <PropertyList model="HELP_INTERNAL"/>
+      </Help>
+      <Help Type="I" id="20971541" name="test1">
+        <PropertyList model="HELP_INTERNAL"/>
+      </Help>
+      <Help Type="I" id="20971542" name="test1">
+        <PropertyList model="HELP_INTERNAL"/>
+      </Help>
+      <Help Type="I" id="20971543" name="test1">
+        <PropertyList model="HELP_INTERNAL"/>
+      </Help>
+      <Help Type="I" id="20971544" name="test5">
         <PropertyList model="HELP_INTERNAL"/>
       </Help>
     </HelpScreens>

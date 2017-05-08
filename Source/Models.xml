@@ -4,7 +4,7 @@
   <Header>
     <Version val="13021"/>
     <WithIsn val="Y"/>
-    <LastIsn val="9"/>
+    <LastIsn val="18"/>
     <LastIsnFolder val="0"/>
     <Folders/>
   </Header>
@@ -65,6 +65,66 @@
         </PropertyList>
       </Object>
       <Object Public="Test2" id="20971529" name="Test2">
+        <PropertyList model="FIELD">
+          <Model attr_obj="FIELD_ALPHA" id="1"/>
+          <Size id="174"/>
+          <_Flip id="194"/>
+        </PropertyList>
+      </Object>
+      <Object Public="Test1" id="20971530" name="test1">
+        <PropertyList model="FIELD">
+          <Model attr_obj="FIELD_ALPHA" id="1"/>
+          <Size id="174"/>
+          <_Flip id="194"/>
+        </PropertyList>
+      </Object>
+      <Object id="20971531" name="form">
+        <PropertyList model="FORM_GUI0">
+          <_Comment id="218"/>
+          <FormName id="311"/>
+        </PropertyList>
+      </Object>
+      <Object Public="Test2" id="20971532" name="Test2">
+        <PropertyList model="FIELD">
+          <Model attr_obj="FIELD_ALPHA" id="1"/>
+          <Size id="174"/>
+          <_Flip id="194"/>
+        </PropertyList>
+      </Object>
+      <Object id="20971533" name="form">
+        <PropertyList model="FORM_GUI0">
+          <_Comment id="218"/>
+          <FormName id="311"/>
+        </PropertyList>
+      </Object>
+      <Object Public="Test1" id="20971534" name="test1">
+        <PropertyList model="FIELD">
+          <Model attr_obj="FIELD_ALPHA" id="1"/>
+          <Size id="174"/>
+          <_Flip id="194"/>
+        </PropertyList>
+      </Object>
+      <Object Public="Test2" id="20971535" name="Test2">
+        <PropertyList model="FIELD">
+          <Model attr_obj="FIELD_ALPHA" id="1"/>
+          <Size id="174"/>
+          <_Flip id="194"/>
+        </PropertyList>
+      </Object>
+      <Object id="20971536" name="form">
+        <PropertyList model="FORM_GUI0">
+          <_Comment id="218"/>
+          <FormName id="311"/>
+        </PropertyList>
+      </Object>
+      <Object Public="Test1" id="20971537" name="test1">
+        <PropertyList model="FIELD">
+          <Model attr_obj="FIELD_ALPHA" id="1"/>
+          <Size id="174"/>
+          <_Flip id="194"/>
+        </PropertyList>
+      </Object>
+      <Object Public="Test2" id="20971538" name="Test2">
         <PropertyList model="FIELD">
           <Model attr_obj="FIELD_ALPHA" id="1"/>
           <Size id="174"/>
