@@ -4,9 +4,17 @@
   <Header>
     <Version val="13021"/>
     <WithIsn val="Y"/>
-    <LastIsn val="0"/>
+    <LastIsn val="1"/>
     <LastIsnFolder val="0"/>
     <Folders/>
   </Header>
+
+  <RightsRepository>
+    <Rights>
+      <Right id="20971521" name="1">
+        <PublicRight val="Y"/>
+      </Right>
+    </Rights>
+  </RightsRepository>
 
 </Application>
