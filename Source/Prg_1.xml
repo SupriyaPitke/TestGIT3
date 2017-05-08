@@ -28,7 +28,7 @@
           <RunProjectAs val="O"/>
           <FormType val="N"/>
           <DotNetObjectExists val="N"/>
-          <LastModified _date="736457" _time="52298" date="08/05/2017" time="14:31:38"/>
+          <LastModified _date="736457" _time="50334" date="08/05/2017" time="13:58:54"/>
         </Header>
         <Resource>
           <Columns/>
@@ -116,10 +116,10 @@
               <HorizontalFactor id="35" val="4"/>
               <Color id="51" val="3"/>
               <_Comment id="218"/>
-              <FormName id="311" valUnicode="TestGIt7"/>
+              <FormName id="311" valUnicode="TestGITLab6"/>
               <WindowType id="358" val="11"/>
               <StartupMode id="362" val="2"/>
-              <_PulldownMenu comp="-1" id="441" obj="1"/>
+              <_PulldownMenu comp="-1" id="441" obj="20971522"/>
             </PropertyList>
           </FormEntry>
         </TaskForms>
