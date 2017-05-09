@@ -13,7 +13,7 @@
   <ProgramsRepository>
     <Programs>
       <Task MainProgram="N">
-        <Header Description="prg" ISN_2="1" LastIsn="1" id="20971524">
+        <Header Description="prgfdfdfd" ISN_2="1" LastIsn="1" id="20971524">
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -27,9 +27,9 @@
           <Offline val="N"/>
           <FormType val="N"/>
           <DotNetObjectExists val="N"/>
-          <LastModified _date="736457" _time="50937" date="08/05/2017" time="14:08:57"/>
+          <LastModified _date="736458" _time="43870" date="09/05/2017" time="12:11:10"/>
         </Header>
-        <ItemIsn val="4"/>
+        <ItemIsn val="5"/>
         <Resource>
           <Columns>
             <Column id="20971521" name="a">
@@ -60,6 +60,15 @@
               </PropertyList>
             </Column>
             <Column id="20971524" name="d">
+              <PropertyList model="FIELD">
+                <Model attr_obj="FIELD_ALPHA" id="1"/>
+                <Picture id="157" valUnicode="11"/>
+                <StoredAs id="173" val="1"/>
+                <Size id="174" val="11"/>
+                <_Flip id="194"/>
+              </PropertyList>
+            </Column>
+            <Column id="20971525" name="e">
               <PropertyList model="FIELD">
                 <Model attr_obj="FIELD_ALPHA" id="1"/>
                 <Picture id="157" valUnicode="11"/>
@@ -195,6 +204,17 @@
                   <Direction val="C"/>
                 </Select>
               </LogicLine>
+              <LogicLine>
+                <Select FieldID="20971525" FlowIsn="20971527" id="20971525">
+                  <Column val="20971525"/>
+                  <Type val="V"/>
+                  <IsParameter val="N"/>
+                  <DIFF_UPDATE val="T"/>
+                  <Condition val="Y"/>
+                  <Modifier val="S"/>
+                  <Direction val="C"/>
+                </Select>
+              </LogicLine>
             </LogicLines>
           </LogicUnit>
         </TaskLogic>
@@ -203,7 +223,7 @@
             <PropertyList model="FORM_GUI0">
               <Model comp="-1" id="1" obj="20971527"/>
               <_Comment id="218"/>
-              <FormName id="311" valUnicode="prg"/>
+              <FormName id="311" valUnicode="prgfdfdfd"/>
             </PropertyList>
             <Control _test_id="2" id="20971521">
               <PropertyList model="CTRL_GUI0_STATIC">
